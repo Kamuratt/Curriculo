@@ -10,6 +10,10 @@
 
 Sou estudante do 6º semestre de Ciência da Computação na Universidade de Brasília (UnB), com interesse nas áreas de Ciência de Dados e Inteligência Artificial. Busco oportunidades para aplicar e expandir meus conhecimentos em um ambiente profissional desafiador.
 
+## Objetivo Profissional
+
+Busco uma oportunidade na área de **TI**, principalmente na área de **Ciência de Dados** e **Inteligência Artificial**, onde possa aplicar minha sólida base acadêmica e habilidades técnicas em projetos inovadores e desafiadores. Meu objetivo é contribuir para soluções de impacto, enquanto continuo a expandir meus conhecimentos e habilidades, explorando novas abordagens e tecnologias. 
+
 ## Formação Acadêmica
 
 **Bacharelado em Ciência da Computação**  
@@ -183,13 +187,23 @@ Os dados do jogo eram armazenados em arquivos, permitindo a persistência de inf
 - 🎮 [Jogar Solid Sacrifice](https://kamuratt.itch.io/solid-sacrifice-web)  
 - 💻 [Repositório GitHub](https://github.com/dede6giu/solid-sacrifice)  
 
+## Habilidades Pessoais
+
+- **Rápido Aprendizado**: Tenho a capacidade de absorver novos conceitos e tecnologias de forma rápida, aplicando-os eficazmente em projetos práticos e entregando resultados de qualidade.
+  
+- **Pensamento Analítico**: Sou capaz de resolver problemas complexos e tomar decisões estratégicas com base em uma análise detalhada de dados, sempre buscando soluções eficientes e práticas.
+
+- **Autodidatismo**: Tenho um forte impulso para aprender por conta própria, explorando novas tecnologias e conceitos, o que me permite me atualizar constantemente sem a necessidade de supervisão direta.
+
+- **Trabalho em Equipe**: Valorizo a colaboração em projetos, com experiência em ouvir e contribuir ativamente, coordenando tarefas de forma eficiente para atingir objetivos em grupo.
+
+- **Resiliência e Adaptabilidade**: Enfrento desafios de forma proativa e me ajusto rapidamente a novas situações e ambientes de trabalho, mantendo o foco nos objetivos.
+
+- **Criatividade e Inovação**: Gosto de explorar novas abordagens e soluções originais para problemas, especialmente em áreas como tecnologia e design de sistemas, sempre buscando a inovação.
+
+- **Organização e Gestão do Tempo**: Tenho habilidades sólidas de organização, conseguindo gerenciar múltiplos projetos e tarefas de maneira eficiente, priorizando demandas conforme necessário para garantir entregas pontuais e de alta qualidade.
 
 ## Idiomas
 
 - **Inglês:** Avançado (speaking, reading), Intermediária(writing)
 - **Espanhol:** Básico
-
-## Objetivo Profissional
-
-Desejo iniciar minha carreira na área de Ciência de Dados ou Inteligência Artificial, contribuindo para projetos inovadores e desafiadores que me permitam aplicar meus conhecimentos acadêmicos e desenvolver novas habilidades.
-
