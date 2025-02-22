@@ -24,7 +24,7 @@ Busco uma oportunidade na área de **TI**, principalmente na área de **Ciência
 ## Habilidades Técnicas
 
 - **Linguagens de Programação:** Python, Java, C++, Scala, GdScript
-- **Ferramentas e Tecnologias:** Pandas, NumPy, OpenSSL, Scikit-learn, H2, Flask, Dotenv, cryptography, base64, hashlib, 
+- **Ferramentas e Tecnologias:** Pandas, NumPy, OpenSSL, Scikit-learn, H2, Flask, Dotenv, cryptography, base64, hashlib
 - **Bancos de Dados:** SQL Lite
 - **Outros:** Git, Godot
 
