@@ -157,15 +157,21 @@ RPGo é um sistema de gestão de RPGs desenvolvido em Java. O projeto permite qu
 
 ---
 
-## **Habilidades Pessoais**
+## Habilidades Pessoais
 
-- **Rápido Aprendizado**  
-- **Pensamento Analítico**  
-- **Autodidatismo**  
-- **Trabalho em Equipe**  
-- **Resiliência e Adaptabilidade**  
-- **Criatividade e Inovação**  
-- **Organização e Gestão do Tempo**
+- **Rápido Aprendizado**: Tenho a capacidade de absorver novos conceitos e tecnologias de forma rápida, aplicando-os eficazmente em projetos práticos e entregando resultados de qualidade.
+  
+- **Pensamento Analítico**: Sou capaz de resolver problemas complexos e tomar decisões estratégicas com base em uma análise detalhada de dados, sempre buscando soluções eficientes e práticas.
+
+- **Autodidatismo**: Tenho um forte impulso para aprender por conta própria, explorando novas tecnologias e conceitos, o que me permite me atualizar constantemente sem a necessidade de supervisão direta.
+
+- **Trabalho em Equipe**: Valorizo a colaboração em projetos, com experiência em ouvir e contribuir ativamente, coordenando tarefas de forma eficiente para atingir objetivos em grupo.
+
+- **Resiliência e Adaptabilidade**: Enfrento desafios de forma proativa e me ajusto rapidamente a novas situações e ambientes de trabalho, mantendo o foco nos objetivos.
+
+- **Criatividade e Inovação**: Gosto de explorar novas abordagens e soluções originais para problemas, especialmente em áreas como tecnologia e design de sistemas, sempre buscando a inovação.
+
+- **Organização e Gestão do Tempo**: Tenho habilidades sólidas de organização, conseguindo gerenciar múltiplos projetos e tarefas de maneira eficiente, priorizando demandas conforme necessário para garantir entregas pontuais e de alta qualidade.
 
 ---
 
