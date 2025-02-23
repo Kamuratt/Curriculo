@@ -84,7 +84,7 @@ Responsável pela parte prática do projeto, implementei a maioria das soluçõe
 - Aprimorei meu conhecimento no uso das bibliotecas de machine learning e coloquei em prática os conceitos aprendidos na disciplina de Inteligência Artificial, aumentando ainda mais meu interesse na área.
 
 **Link para o Repositório:**  
-🔗 [Machine Learning](https://github.com/Amaralfaria/multiclass_machine_learning)(Desenvolvido em dupla)
+🔗 [Machine Learning](https://github.com/Amaralfaria/multiclass_machine_learning) (Desenvolvido em dupla)
 
 ---
 
