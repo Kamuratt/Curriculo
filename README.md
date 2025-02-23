@@ -9,7 +9,8 @@
 ---
 
 ## **Sobre Mim**
-Sou estudante do 6º semestre de Ciência da Computação na Universidade de Brasília (UnB), com interesse nas áreas de Ciência de Dados e Inteligência Artificial. Busco oportunidades para aplicar e expandir meus conhecimentos em um ambiente profissional desafiador.
+
+Sou estudante do 6º semestre de Ciência da Computação na Universidade de Brasília (UnB), com profundo interesse por Ciência de Dados e Inteligência Artificial. Ao longo da minha trajetória acadêmica, tenho me dedicado a projetos que combinam análise de dados, machine learning e desenvolvimento de soluções inovadoras. Estou constantemente explorando novas tecnologias e abordagens, sempre em busca de transformar desafios complexos em oportunidades de aprendizado e inovação.
 
 ---
 
@@ -23,6 +24,24 @@ Busco uma oportunidade na área de **TI**, principalmente nas áreas de **Ciênc
 *Universidade de Brasília (UnB)*  
 - **Início:** Janeiro de 2022  
 - **Previsão de Conclusão:** Janeiro de 2027
+
+---
+
+## Habilidades Pessoais
+
+- **Rápido Aprendizado**: Tenho a capacidade de absorver novos conceitos e tecnologias de forma rápida, aplicando-os eficazmente em projetos práticos e entregando resultados de qualidade.
+  
+- **Pensamento Analítico**: Sou capaz de resolver problemas complexos e tomar decisões estratégicas com base em uma análise detalhada de dados, sempre buscando soluções eficientes e práticas.
+
+- **Autodidatismo**: Tenho um forte impulso para aprender por conta própria, explorando novas tecnologias e conceitos, o que me permite me atualizar constantemente sem a necessidade de supervisão direta.
+
+- **Trabalho em Equipe**: Valorizo a colaboração em projetos, com experiência em ouvir e contribuir ativamente, coordenando tarefas de forma eficiente para atingir objetivos em grupo.
+
+- **Resiliência e Adaptabilidade**: Enfrento desafios de forma proativa e me ajusto rapidamente a novas situações e ambientes de trabalho, mantendo o foco nos objetivos.
+
+- **Criatividade e Inovação**: Gosto de explorar novas abordagens e soluções originais para problemas, especialmente em áreas como tecnologia e design de sistemas, sempre buscando a inovação.
+
+- **Organização e Gestão do Tempo**: Tenho habilidades sólidas de organização, conseguindo gerenciar múltiplos projetos e tarefas de maneira eficiente, priorizando demandas conforme necessário para garantir entregas pontuais e de alta qualidade.
 
 ---
 
@@ -65,7 +84,7 @@ Responsável pela parte prática do projeto, implementei a maioria das soluçõe
 - Aprimorei meu conhecimento no uso das bibliotecas de machine learning e coloquei em prática os conceitos aprendidos na disciplina de Inteligência Artificial, aumentando ainda mais meu interesse na área.
 
 **Link para o Repositório:**  
-🔗 [Machine Learning](https://github.com/Amaralfaria/multiclass_machine_learning)
+🔗 [Machine Learning](https://github.com/Amaralfaria/multiclass_machine_learning)(Desenvolvido em dupla)
 
 ---
 
@@ -157,29 +176,11 @@ RPGo é um sistema de gestão de RPGs desenvolvido em Java. O projeto permite qu
 
 ---
 
-## Habilidades Pessoais
-
-- **Rápido Aprendizado**: Tenho a capacidade de absorver novos conceitos e tecnologias de forma rápida, aplicando-os eficazmente em projetos práticos e entregando resultados de qualidade.
-  
-- **Pensamento Analítico**: Sou capaz de resolver problemas complexos e tomar decisões estratégicas com base em uma análise detalhada de dados, sempre buscando soluções eficientes e práticas.
-
-- **Autodidatismo**: Tenho um forte impulso para aprender por conta própria, explorando novas tecnologias e conceitos, o que me permite me atualizar constantemente sem a necessidade de supervisão direta.
-
-- **Trabalho em Equipe**: Valorizo a colaboração em projetos, com experiência em ouvir e contribuir ativamente, coordenando tarefas de forma eficiente para atingir objetivos em grupo.
-
-- **Resiliência e Adaptabilidade**: Enfrento desafios de forma proativa e me ajusto rapidamente a novas situações e ambientes de trabalho, mantendo o foco nos objetivos.
-
-- **Criatividade e Inovação**: Gosto de explorar novas abordagens e soluções originais para problemas, especialmente em áreas como tecnologia e design de sistemas, sempre buscando a inovação.
-
-- **Organização e Gestão do Tempo**: Tenho habilidades sólidas de organização, conseguindo gerenciar múltiplos projetos e tarefas de maneira eficiente, priorizando demandas conforme necessário para garantir entregas pontuais e de alta qualidade.
-
----
-
 ## **Idiomas**
 
 - **Inglês: Avançado**  
   Capacidade avançada em compreensão auditiva e leitura. Experiência prática em comunicação escrita e falada.  
-  - **Compreensão Auditiva & Leitura:** Avançado  
+  - **Compreensão Auditiva e Leitura:** Avançado  
   - **Escrita:** Intermediário  
   - **Conversação:** Avançado
 
